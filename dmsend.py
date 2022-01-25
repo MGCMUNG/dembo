@@ -1,4 +1,4 @@
-﻿
+OTM1Mzk2MTc0MDYyNTc5ODA0.Ye-Bkg.tbrVVKVwctQnW8XaASzo1KSBkaI﻿
 # 아람쓰#5050 또는 아람#5920 : 전체디엠봇 소스
 # 영상보고 모르는점 있을시 유튜브 댓글또는 디엠주세요
 
@@ -12,9 +12,9 @@ client = discord.Client()
 @client.event
 async def on_ready():
     print("봇실행이 시작되었습니다(24시간 온라인).")
-    game = discord.Game('~하는 중 ex)봇만들기 하는 중')
-    await client.change_presence(status=discord.Status.online, activity=game)
-
+    게임   =   불화 . GAE  M문
+     클라이언트  를  기다  립니다 . change_presence ( 상태  =  discord . 상태 . 온라인 , 리시  =  게 '임문
+</s></s>
 #/dm {할말}로 전체DM 전송
 @client.event
 async def on_message(message):
@@ -34,4 +34,4 @@ async def on_message(message):
                     pass
 
 
-client.run('봇의 토큰을 넣어주세용')
+client.run('OTM1Mzk2MTc0MDYyNTc5ODA0.Ye-Bkg.tbrVVKVwctQnW8XaASzo1KSBkaI')
