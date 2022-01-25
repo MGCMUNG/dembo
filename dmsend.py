@@ -12,7 +12,7 @@ client = discord.Client()
 @client.event
 async def on_ready():
     print("봇실행이 시작되었습니다(24시간 온라인).")
-    게임   =   불화 . GAE  M문
+    게임   =   불화 .  M문
      클라이언트  를  기다  립니다 . change_presence ( 상태  =  discord . 상태 . 온라인 , 리시  =  게 '임문
 </s></s>
 #/dm {할말}로 전체DM 전송
@@ -24,11 +24,10 @@ async def on_message(message):
                 pass
             else:
                 try:
-                    msg = message.content[4:]
-                    if message.author.id == 디스코드ID를 적기!!:
+                    msg = message.content[4:]726039258212597840
                         embed = discord.Embed(colour=0x1DDB16, timestamp=message.created_at, title="최상단 제목")
                         embed.add_field(name="제목", value=msg, inline=True)
-                        embed.set_footer(text=f"서버초대코드")
+                        embed.set_footer(text=f"서버초대코드")https://discord.gg/gFRAP3aTEG
                         await i.send(embed=embed)
                 except:
                     pass
